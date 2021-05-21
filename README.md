@@ -31,3 +31,5 @@ notify:
 
 ## License
 This project is licensed under MIT license. See [LICENSE](LICENSE) file for details.
+
+<a href="https://www.buymeacoffee.com/holala" target="_blank"><img src="http://img1.coolsong.com/imgs/2021/05/49b7e0a6af0a43b6.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>

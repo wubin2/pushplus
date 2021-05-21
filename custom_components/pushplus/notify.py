@@ -1,5 +1,5 @@
 """
-PushPlus V1.2 For HomeAssistant by Tristan
+PushPlus V1.2 For HomeAssistant by wubin2
 
 """
 import logging

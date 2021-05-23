@@ -6,11 +6,6 @@
 [PushPlus](http://www.pushplus.plus) notification for homeassistant.
 
 ## Installation
-### HACS (recommended)
-1. In `Integrations` section add custom repositories URL `https://github.com/wubin2/pushplus`.
-2. Category choose `Integrations`.
-3. Install added repository.
-### Manual
 1. Install this component by copying [these files](https://github.com/wubin2/pushplus/tree/master/custom_components/pushplus) to `custom_components/pushplus/`.
 2. Add the code to your `configuration.yaml` using the config options below.
 3. Restart HomeAssistant.

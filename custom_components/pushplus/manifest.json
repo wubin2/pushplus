@@ -3,6 +3,6 @@
     "name": "PushPlus",
     "documentation": "https://github.com/wubin2/pushplus",
     "dependencies": [],
-    "codeowners": ["@Tristan"],
-    "version": "1.2"
+    "codeowners": ["@wubin2"],
+    "version": "1.3"
   }

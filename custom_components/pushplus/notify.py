@@ -1,4 +1,4 @@
-"""PushPlus V1.2 For HomeAssistant by wubin2"""
+"""PushPlus V1.3 For HomeAssistant by wubin2"""
 import logging
 import datetime
 import requests

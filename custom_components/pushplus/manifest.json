@@ -2,8 +2,7 @@
     "domain": "pushplus",
     "name": "PushPlus",
     "documentation": "https://github.com/wubin2/pushplus",
-    "dependencies": ["PushPlus notification for homeassistant."],
-    "codeowners": ["@wubin2"],
-    "requirements": [],
-    "version": "v1.2"
+    "dependencies": [],
+    "codeowners": ["@Tristan"],
+    "version": "1.2"
   }

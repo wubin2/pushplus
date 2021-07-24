@@ -2,6 +2,6 @@
     "name": "pushplus",
     "domains": ["pushplus"],
     "render_readme": true,
-    "homeassistant": "2021.5.5",
+    "homeassistant": "2021.7.4",
     "country": ["CN"]
   }

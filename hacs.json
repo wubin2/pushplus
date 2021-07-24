@@ -1,5 +1,5 @@
 {
-    "name": "pushplus",
+    "name": "PushPlus",
     "domains": ["pushplus"],
     "render_readme": true,
     "homeassistant": "2021.7.4",

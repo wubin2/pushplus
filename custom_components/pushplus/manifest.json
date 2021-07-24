@@ -2,7 +2,8 @@
     "domain": "pushplus",
     "name": "PushPlus",
     "documentation": "https://github.com/wubin2/pushplus",
-    "dependencies": [],
+    "issue_tracker": "https://github.com/wubin2/pushplus/issues",
+    "dependencies": ["notify"],
     "codeowners": ["@wubin2"],
     "version": "1.3"
   }

@@ -3,5 +3,6 @@
     "domains": ["pushplus"],
     "render_readme": true,
     "homeassistant": "2021.7.4",
-    "country": ["CN"]
+    "country": ["CN"],
+    "iot_class": ["Cloud Polling", "Local Push"]}
   }

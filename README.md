@@ -32,3 +32,7 @@ notify:
 This project is licensed under MIT license. See [LICENSE](LICENSE) file for details.
 
 [![alt text](http://img1.coolsong.com/imgs/2021/05/49b7e0a6af0a43b6.png "Buy Me A Coffee")](https://www.buymeacoffee.com/holala)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wubin2/pushplus&type=Date)](https://star-history.com/#wubin2/pushplus&Date)
